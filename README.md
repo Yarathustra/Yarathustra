@@ -2,10 +2,10 @@
 - 👀 I’m interested in Vision Language Model.
 - 🌱 I’m currently learning pytorch.
 
--Personal email: jerry.zryang@hotmail.com
+Personal email: jerry.zryang@hotmail.com
 -
 
--Work email: zryang@tongji.edu.cn
+Work email: zryang@tongji.edu.cn
 -
 
 <!---
