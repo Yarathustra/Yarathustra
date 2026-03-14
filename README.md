@@ -22,6 +22,7 @@ My research focuses on understanding how large multimodal models acquire structu
 *Co-first Author*  
 Accepted at **CVPPA Workshop @ ICCV 2025**
 https://arxiv.org/abs/2512.11874
+
 Authors: Jiahao Jiang, Zhangrui Yang, Xuanhan Wang, Jingkuan Song
 
 ---
