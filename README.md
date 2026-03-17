@@ -1,4 +1,12 @@
 # Hi, I'm Zhangrui Yang 👋
+<p align="left">
+  <a href="https://YARATHUSTRA.github.io">
+    <img src="https://img.shields.io/badge/Personal%20Website-Visit%20Now-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://scholar.google.com/citations?user=1io0foEAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-red?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar">
+  </a>
+</p>
 Undergraduate in Computer Science at Tongji University (Elite Program)
 
 I am interested in **Vision-Language Models, Spatial Reasoning, and Multimodal Learning**.  
