@@ -73,6 +73,6 @@ Currently exploring:
 
 ## 🌐 Academic Profiles
 
-- GitHub: https://github.com/Yarathustra
+- Personal website: https://YARATHUSTRA.github.io
 - Email: jerry.zryang@hotmail.com
 - Google Scholar: https://scholar.google.com/citations?user=1io0foEAAAAJ&hl=zh-CN
