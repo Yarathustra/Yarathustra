@@ -68,12 +68,6 @@ Currently exploring:
 - Computer Vision
 - Data Processing & Experiment Pipelines
 
----
-#### 💡 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YARATHUSTRA&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YARATHUSTRA&layout=compact&theme=tokyonight)
-
 
 ---
 
