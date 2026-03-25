@@ -68,6 +68,12 @@ Currently exploring:
 - Computer Vision
 - Data Processing & Experiment Pipelines
 
+---
+#### 💡 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallflower13&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallflower13&layout=compact&theme=tokyonight)
+
 
 ---
 
