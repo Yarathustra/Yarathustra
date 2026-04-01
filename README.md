@@ -26,7 +26,7 @@ My research focuses on understanding how large multimodal models acquire structu
 
 ## 📄 Publications
 
-**Enhancing Adversarial Attacks with Decision Boundary Information**
+-**Enhancing Adversarial Attacks with Decision Boundary Information**
 
 *First Author*
 
@@ -36,7 +36,7 @@ Code：https://github.com/Yarathustra/BF-Attack
 
 Authors: **Zhangrui Yang**, Shengming Yuan, Bo Wang, Yaya Cheng, Pengpeng Zeng, Zheng Wang, Xuanhan Wang, Jingkuan Song
 
-**Pseudo-Label Refinement for Robust Wheat Head Segmentation via Two-Stage Hybrid Training**  
+-**Pseudo-Label Refinement for Robust Wheat Head Segmentation via Two-Stage Hybrid Training**  
 
 *Co-first Author*  
 
