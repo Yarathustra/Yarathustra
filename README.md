@@ -26,12 +26,19 @@ My research focuses on understanding how large multimodal models acquire structu
 
 ## 📄 Publications
 
+**Enhancing Adversarial Attacks with Decision Boundary Information**
+*First Author*
+Under Review at **Information Fusion**
+Code：https://github.com/Yarathustra/BF-Attack
+
+Authors: **Zhangrui Yang**, Shengming Yuan, Bo Wang, Yaya Cheng, Pengpeng Zeng, Zheng Wang, Xuanhan Wang, Jingkuan Song
+
 **Pseudo-Label Refinement for Robust Wheat Head Segmentation via Two-Stage Hybrid Training**  
 *Co-first Author*  
 Accepted at **CVPPA Workshop @ ICCV 2025**
-https://arxiv.org/abs/2512.11874
+Paper：https://arxiv.org/abs/2512.11874
 
-Authors: Jiahao Jiang, Zhangrui Yang, Xuanhan Wang, Jingkuan Song
+Authors: Jiahao Jiang, **Zhangrui Yang**, Xuanhan Wang, Jingkuan Song
 
 ---
 
