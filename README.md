@@ -2,7 +2,7 @@
 <!-- 直接全选复制 → 覆盖你的 Yarathustra/Yarathustra 仓库里的 README.md -->
 
 <div align="center">
-  <img src="https://github.com/Yarathustra/Yarathustra/blob/main/assets/images/profile.jpg?raw=true" width="160" style="border-radius:12px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);">
+  <img src="https://github.com/Yarathustra/YARATHUSTRA.github.io/tree/main/assets/images/profile.jpg?raw=true" width="160" style="border-radius:12px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);">
   <h1 style="margin: 12px 0 4px 0; font-size: 2.4em;">Zhangrui Yang (杨章睿)</h1>
   <p style="font-size: 1.25em; color: #2c3e50;">
     Undergraduate Researcher<br>
